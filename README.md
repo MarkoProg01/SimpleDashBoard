@@ -189,7 +189,7 @@ Change to ScrollView
             </androidx.cardview.widget.CardView>
 ```
 
-##BACKGROUND
+## BACKGROUND
 
 1.Create new XML file on drawable folder and paste this code: 
 
